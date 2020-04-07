@@ -44,3 +44,7 @@ p {
   font-family: sans-serif;
   font-size: 20px;
 }
+#image {
+  max-width: 500px;
+  display: block;
+}
